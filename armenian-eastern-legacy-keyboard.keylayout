@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 3.2.7.195 on 2018-04-14 at 12:44 (GMT+4)-->
-<!--Last edited by Ukelele version 3.2.7.195 on 2018-04-14 at 13:32 (GMT+4)-->
+<!--Last edited by Ukelele version 3.2.7.195 on 2018-05-06 at 12:11 (GMT+4)-->
 <keyboard group="126" id="-31969" name="Armenian Eastern (Legacy)" maxout="1">
 	<layouts>
 		<layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
