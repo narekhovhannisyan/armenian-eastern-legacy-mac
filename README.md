@@ -1,10 +1,16 @@
-# armenian-eastern-legacy-keyboard-mac-os-x
-Armenian Eastern (Legacy) keyboard for mac os x created with Ukelele
+## armenian-eastern-legacy-mac
 
-Copy `armenian-eastern-legacy-keyboard` to Library/Keyboard Layout directory.
+Armenian Eastern (Legacy) keyboard for MacOS created with Ukelele.
 
-After go to `System Preferenced -> Keyboard -> Input Sources`
+# Installing
 
-Add `Armenian Eastern (Legacy)` keyboard from `Others`
+1. Download keyboard file by pressing `Clone or Download` button, then `Download ZIP`.
 
-And enjoy :)
+2. Copy `armenian-eastern-legacy-keyboard.keylayout` to Library/Keyboard Layout directory.
+
+3. Then go to `System Preferences` -> `Keyboard` -> `Input Sources`
+
+4. Add `Armenian Eastern (Legacy)` keyboard layout from `Others` section.
+
+You're done ☺️. Enjoy!
+If you liked my keyboard layout please star my repository 🤩.
